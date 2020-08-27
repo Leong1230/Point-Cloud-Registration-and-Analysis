@@ -5,11 +5,10 @@ This repository will continue to be updated.
 
 ## Point Cloud Registration
 * Review
-> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)]
-
-> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)]
+> 
 
 * Point-based methods
+> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)]
 
 * Voxel-based methods
 
