@@ -13,5 +13,12 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 * Voxel-based methods
 
 ## Point Cloud Analysis
+* Review
+> what 
+
+* Point-based methods
+> [CVPR 20] PointNet
+
+* Voxel-based methods
 
 ## Point Cloud Learning Resource
