@@ -14,8 +14,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 * Voxel-based methods
 
 * Generative model methods
-> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)][[Code](https://github.com/
-amirhertz/pointgmm)] [reg. gen.]
+> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)][[Code](https://github.com/amirhertz/pointgmm)] [reg. gen.]
+>
 > [ECCV 2018] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf)] [reg.]
 
 ## Point Cloud Analysis
@@ -26,6 +26,7 @@ amirhertz/pointgmm)] [reg. gen.]
 
 * Generative model methods
 > [CVPR 2019] Nesti-net: Normal estimation for unstructured 3d pointclouds using convolutional neural networks. [[Papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.pdf)] [nor.]
+>
 > [R&A Letters 2018] 3dmfv: Three-dimensional point cloud classification in real-time using convolutional neural networks. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394990)] [cla.]
 
 * Review
