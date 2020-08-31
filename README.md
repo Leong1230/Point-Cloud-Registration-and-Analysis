@@ -6,9 +6,10 @@ labels of task: [cla.] for classfication, [reg.] for registration, [gen.] for sh
 Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## Point Cloud Registration
-* Review
+### Review
 > what 
 
+### Feature Extraction
 * Point-based methods
 
 * Voxel-based methods
@@ -18,8 +19,18 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 >
 > [ECCV 2018] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf)] [reg.]
 
+### Feature Extraction
+>
+
 ## Image Matching
+### Find Correspondences
 > [CVPR 2018] Learning to Find Good Correspondences. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)]
+
+### End-to-end Matching
+
+### Outlier Rejection
+> [CVPR 2017] DSAC-Differentiable RANSAC for Camera Localization. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099750)]
+
 
 ## Point Cloud Analysis
 * Point-based methods
