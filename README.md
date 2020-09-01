@@ -19,14 +19,21 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 >
 > [ECCV 2018] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf)] [reg.]
 
-### Feature Extraction
+### Unsupervised Methods
 >
+
+### Outliers Rejection
+> [Com. ACM 1981] Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography.(RANSAC) [[Paper](https://dl.acm.org/doi/pdf/10.1145/358669.358692)]
 
 ## Image Matching
 ### Find Correspondences
+* Keypoint-based methods (Sparse)
 > [CVPR 2018] Learning to Find Good Correspondences. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)]
 
-### End-to-end Matching
+* Dense methods
+> [CVPR 2017] DeMoN: Depth and Motion Network for Learning Monocular Stereo. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100079)]
+
+### End-to-end Methods
 
 ### Outlier Rejection
 > [CVPR 2017] DSAC-Differentiable RANSAC for Camera Localization. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099750)]
@@ -52,6 +59,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 * Else
 > [TOG 2019] SDM-NET: Deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)] ][gen.]
 
+---------------------------------------
 ## Point Cloud Dataset
 > ShapeNet
 
