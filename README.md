@@ -5,6 +5,7 @@ labels of task: [cla.] for classfication, [reg.] for registration, [gen.] for sh
 
 Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
+---------------------------------------------------
 ## Point Cloud Registration
 ### Review
 > what 
@@ -24,7 +25,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ### Outliers Rejection
 > [Com. ACM 1981] Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography.(RANSAC) [[Paper](https://dl.acm.org/doi/pdf/10.1145/358669.358692)]
-
+---------------------------------------------------------------
 ## Image Matching
 ### Find Correspondences
 * Keypoint-based methods (Sparse)
@@ -37,8 +38,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ### Outlier Rejection
 > [CVPR 2017] DSAC-Differentiable RANSAC for Camera Localization. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099750)]
-
-
+----------------------------------
 ## Point Cloud Analysis
 * Point-based methods
 > [CVPR 20] PointNet
@@ -54,7 +54,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 > [IJCV 2020] Image Matching from Handcrafted to Deep Features: A Survey. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)]
 > 
 > [SPM 2017] Geometric Deep Learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974879)]
-> [] 
+> 
 
 * Else
 > [TOG 2019] SDM-NET: Deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)] ][gen.]
@@ -62,5 +62,5 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 ---------------------------------------
 ## Point Cloud Dataset
 > ShapeNet
-
+--------------------------------------
 ## Point Cloud Learning Resource
