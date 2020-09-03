@@ -41,7 +41,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 ----------------------------------
 ## Point Cloud Analysis
 * Point-based methods
->> [CVPR 2019] PointConv: Deep Convolutional Networks on 3D Point Clouds.[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)][cla. seg.]
+> [CVPR 2019] PointConv: Deep Convolutional Networks on 3D Point Clouds.[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)][cla. seg.]
 > [CVPR 2018] PointNet
 
 * Voxel-based methods
@@ -61,6 +61,13 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ---------------------------------------
 ## Point Cloud Dataset
-> ShapeNet
+* Synthetic dataset
+> ShapeNet: Large Scale Synthetic Objects
+> ModelNet
+> PartNet:Fine-grained; Instance-level; Hierarchical.
+> SceneNet: Large Scale Synthetic Scenes
+* Real world dataset
+> 3DScan
+
 --------------------------------------
 ## Point Cloud Learning Resource
