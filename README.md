@@ -45,6 +45,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 > [CVPR 2018] PointNet
 
 * Voxel-based methods
+> SparseConvNet[[Code](https://github.com/facebookresearch/SparseConvNet)]
 
 * Generative model methods
 > [CVPR 2019] Nesti-net: Normal estimation for unstructured 3d pointclouds using convolutional neural networks. [[Papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.pdf)] [nor.]
@@ -65,9 +66,14 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 > ShapeNet: Large Scale Synthetic Objects
 > ModelNet
 > PartNet:Fine-grained; Instance-level; Hierarchical.
-> SceneNet: Large Scale Synthetic Scenes
+> SceneNet: Large Scale Synthetic Scenes; 3D meshes
 * Real world dataset
 > 3DScan
+> ScanNet: Large-scale; RGBD scans; 3D camera poses; Instance-level segmentation.
+> KITTI: LiDAR data; labeled by 3D b.boxes.
+> Semantic KITTI: LiDAR data; labeled per point.
+> Waymo Open Dataset: LiDAR data; labeled by 3D b.boxes.
+
 
 --------------------------------------
 ## Point Cloud Learning Resource
