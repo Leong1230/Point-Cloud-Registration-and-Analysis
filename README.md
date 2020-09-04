@@ -16,8 +16,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 * Voxel-based methods
 
 * Generative model methods
-> [CVPR 2020] PointGMM: a Neural GMM Network for Point Clouds. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)][[Code](https://github.com/amirhertz/pointgmm)] [reg. gen.]  
-> [ECCV 2018] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf)] [reg.]
+> [2020 CVPR] PointGMM: a Neural GMM Network for Point Clouds. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)][[Code](https://github.com/amirhertz/pointgmm)] [reg. gen.]  
+> [2018 ECCV] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [[Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf)] [reg.]
 
 * Lattice method
 
@@ -27,56 +27,60 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 >
 
 ### Outliers Rejection
-> [Com. ACM 1981] Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography.(RANSAC) [[Paper](https://dl.acm.org/doi/pdf/10.1145/358669.358692)]
+> [1981 Com. ACM] Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography.(RANSAC) [[Paper](https://dl.acm.org/doi/pdf/10.1145/358669.358692)]
 ---------------------------------------------------------------
-## Image Matching
-### Find Correspondences
-* Keypoint-based methods (Sparse)
-> [CoRR 2020] D2D: Learning to find good correspondences for image matching and manipulation [[Paper](https://arxiv.org/pdf/2007.08480.pdf)]
-
-* Dense methods
-> [CVPR 2017] DeMoN: Depth and Motion Network for Learning Monocular Stereo. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100079)]
-
-### End-to-end Methods
-
-### Outlier Rejection
-> [CVPR 2017] DSAC-Differentiable RANSAC for Camera Localization. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099750)]  
-> [CVPR 2018] Learning to Find Good Correspondences. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)]
-----------------------------------
 ## Point Cloud Analysis
 * Point-based methods
-> [CVPR 2019] PointConv: Deep Convolutional Networks on 3D Point Clouds.[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)][cla. seg.]  
-> [CVPR 2018] PointNet
+> [2019 CVPR] PointConv: Deep Convolutional Networks on 3D Point Clouds.[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)][cla. seg.]  
+> [2018 CVPR] PointNet
 
 * Voxel-based methods
 > SparseConvNet[[Code](https://github.com/facebookresearch/SparseConvNet)]  
-> [CVPR 2018] SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100180)] [seg.]
+> [2018 CVPR] SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100180)] [seg.]
 
 * Generative model methods
-> [CVPR 2019] Nesti-net: Normal estimation for unstructured 3d pointclouds using convolutional neural networks. [[Papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.pdf)] [nor.]  
-> [Graphic 2019] SDM-NET: deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)][def.]  
-> [TOG 2019] SDM-NET: Deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)] ][gen.]  
-> [R&A Letters 2018] 3dmfv: Three-dimensional point cloud classification in real-time using convolutional neural networks. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394990)] [cla.]
+> [2019 CVPR] Nesti-net: Normal estimation for unstructured 3d pointclouds using convolutional neural networks. [[Papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.pdf)] [nor.]  
+> [2019 Graphic] SDM-NET: deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)][def.]  
+> [2019 TOG] SDM-NET: Deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)] ][gen.]  
+> [2018 R&A Letters] 3dmfv: Three-dimensional point cloud classification in real-time using convolutional neural networks. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394990)] [cla.]
 > 
 
 * Spherical CNN
 >
 
 * Else
-> [ICLR 2020] Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories. [[Paper]()]  
-> [ACM Graphic 2018] Deep part induction from articulated object pairs. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3272127.3275027)][shot.]
+> [2020 ICLR] Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories. [[Paper]()]  
+> [2018 ACM Graphic] Deep part induction from articulated object pairs. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3272127.3275027)][shot.]
 
 
 ### Review
-> [IJCV 2020] Image Matching from Handcrafted to Deep Features: A Survey. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)]  
-> [SPM 2017] Geometric Deep Learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974879)]
+> [2020 IJCV] Image Matching from Handcrafted to Deep Features: A Survey. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)]  
+> [2017 SPM] Geometric Deep Learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974879)]
 > 
 
 ### Else
-> [ICCV 2019] Deep Mesh Reconstruction From Single RGB Images via Topology Modification Networks.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009447)]  
+> [2019 ICCV] Deep Mesh Reconstruction From Single RGB Images via Topology Modification Networks.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009447)]  
+> [2019 CVPR] Occupancy Networks: Learning 3D Reconstruction in Function Space. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)][recon.]  
+> [2018 NIPS] Learning to Reconstruct Shapes from Unseen Classes. [[Paper](http://papers.nips.cc/paper/7494-learning-to-reconstruct-shapes-from-unseen-classes.pdf)][recon.]
+> [2017 NIPS] MarrNet: 3D Shape Reconstruction via 2.5D Sketches. [[Paper](http://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches.pdf)][recon.]  
 > 
 
 ---------------------------------------
+## Image Matching
+### Find Correspondences
+* Keypoint-based methods (Sparse)
+> [2020 CoRR] D2D: Learning to find good correspondences for image matching and manipulation [[Paper](https://arxiv.org/pdf/2007.08480.pdf)]
+
+* Dense methods
+> [2017 CVPR] DeMoN: Depth and Motion Network for Learning Monocular Stereo. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100079)]
+
+### End-to-end Methods
+
+### Outlier Rejection
+> [2018 CVPR] Learning to Find Good Correspondences. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)]  
+> [2017 CVPR] DSAC-Differentiable RANSAC for Camera Localization. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099750)]  
+
+----------------------------------
 ## Point Cloud Dataset
 * Synthetic dataset  
 > ShapeNet: Large Scale Synthetic Objects  
