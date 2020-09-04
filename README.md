@@ -1,7 +1,7 @@
 # Point-Cloud-Registration-and-Analysis
 The repository mainly focuses on collecting recent works on point cloud registration, for sharing and better learning. Since many other tasks, like image matching and point cloud processing, are highly related to point cloud registration, these papers will be taken into account as well. In order to have a clear look at these fields, We simply classified the articles.This repository will continue to be updated.
 
-labels of task: [cla.] for classfication, [reg.] for registration, [gen.] for shape generation, [nor.] for normal estimation
+labels of task: [cla.] for classfication | [reg.] for registration | [def] for shape deformation | [gen.] for shape generation | [nor.] for normal estimation | [shot.] for few/one/zero-shot learning | [recon.] for reconstruction.
 
 Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
@@ -50,13 +50,22 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 * Voxel-based methods
 > SparseConvNet[[Code](https://github.com/facebookresearch/SparseConvNet)]  
-> [CVPR 2018] SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100180)]
+> [CVPR 2018] SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100180)] [seg.]
 
 * Generative model methods
 > [CVPR 2019] Nesti-net: Normal estimation for unstructured 3d pointclouds using convolutional neural networks. [[Papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.pdf)] [nor.]  
+> [Graphic 2019] SDM-NET: deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)][def.]  
 > [TOG 2019] SDM-NET: Deep generative network for structured deformable mesh. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488)] ][gen.]  
 > [R&A Letters 2018] 3dmfv: Three-dimensional point cloud classification in real-time using convolutional neural networks. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394990)] [cla.]
 > 
+
+* Spherical CNN
+>
+
+* Else
+> [ICLR 2020] Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories. [[Paper]()]  
+> [ACM Graphic 2018] Deep part induction from articulated object pairs. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3272127.3275027)][shot.]
+
 
 ### Review
 > [IJCV 2020] Image Matching from Handcrafted to Deep Features: A Survey. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)]  
@@ -64,6 +73,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 > 
 
 ### Else
+> [ICCV 2019] Deep Mesh Reconstruction From Single RGB Images via Topology Modification Networks.[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009447)]  
+> 
 
 ---------------------------------------
 ## Point Cloud Dataset
