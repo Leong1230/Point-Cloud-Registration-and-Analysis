@@ -16,7 +16,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 * Voxel-based methods
 
 * Generative model methods
-> [2020 CVPR] PointGMM: a Neural GMM Network for Point Clouds. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692) [[Code](https://github.com/amirhertz/pointgmm) [reg. gen.]  
+> [2020 CVPR] PointGMM: a Neural GMM Network for Point Clouds. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156692)  [Code](https://github.com/amirhertz/pointgmm) [reg. gen.]  
 > [2018 ECCV] Hgmr: Hierarchical gaussian mixtures for adaptive 3d registration. [Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01267-0_43.pdf) [reg.]
 
 * Lattice method
@@ -31,7 +31,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 ---------------------------------------------------------------
 ## Point Cloud Analysis
 * Point-based methods
-> [2019 CVPR] PointConv: Deep Convolutional Networks on 3D Point Clouds.[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)][cla. seg.]  
+> [2019 CVPR] PointConv: Deep Convolutional Networks on 3D Point Clouds.[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf) [cla. seg.]  
 > [2018 CVPR] PointNet
 
 * Voxel-based methods
@@ -61,7 +61,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 ### Else
 > [2019 ICCV] Deep Mesh Reconstruction From Single RGB Images via Topology Modification Networks.[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009447)  
 > [2019 CVPR] Occupancy Networks: Learning 3D Reconstruction in Function Space. [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf) [recon.]  
-> [2018 NIPS] Learning to Reconstruct Shapes from Unseen Classes. [Paper](http://papers.nips.cc/paper/7494-learning-to-reconstruct-shapes-from-unseen-classes.pdf) [recon.]
+> [2018 NIPS] Learning to Reconstruct Shapes from Unseen Classes. [Paper](http://papers.nips.cc/paper/7494-learning-to-reconstruct-shapes-from-unseen-classes.pdf) [recon.]  
 > [2017 NIPS] MarrNet: 3D Shape Reconstruction via 2.5D Sketches. [Paper](http://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches.pdf) [recon.]  
 > 
 
